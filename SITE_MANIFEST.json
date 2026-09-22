@@ -1,0 +1,207 @@
+{
+  "domain": "dimityelegant",
+  "niche": "Haute Dimity Fashion & Bespoke Cotton Couture",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "dimity_couture_01_Blond_runway_model_with_a_lovely_s.jpg",
+      "size_kb": 120.07,
+      "md5": "7b032cc04b50a02f412415f9dd788bc2",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Blond runway model with a lovely s",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "dimity_couture_02_Bryanna_Elkins_at_Toronto_Fashion_.jpg",
+      "size_kb": 68.61,
+      "md5": "9d6ae33c5a1b9b3b3f59929c37c390e4",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Bryanna Elkins at Toronto Fashion",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "dimity_couture_03_Diana_Eng_Diana_Eng_s_Fairytale_Fa.jpg",
+      "size_kb": 79.28,
+      "md5": "64ddf334effe602c20e9a3fc15f2b2a5",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Diana Eng Diana Eng s Fairytale Fa",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "dimity_couture_04_Diane_von_F_rstenberg_Spring-Summe.jpg",
+      "size_kb": 102.86,
+      "md5": "442691dce614febd7144534685b9e64a",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Diane von F rstenberg Spring Summe",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "dimity_couture_05_EL_Wire_Dress_Diana_Eng_s_Fairytal.jpg",
+      "size_kb": 126.61,
+      "md5": "9ec6c5b7d85c1c50012ea7d9c2782907",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: EL Wire Dress Diana Eng s Fairytal",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "dimity_couture_06_Evelyn_Lambert_ZFW2018.jpg",
+      "size_kb": 65.86,
+      "md5": "48421c5457bf47304b43240e950b261b",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Evelyn Lambert ZFW2018",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "dimity_couture_07_Fashion_runway.jpg",
+      "size_kb": 79.34,
+      "md5": "69d8efbdb44c4081aee6210d9165a7ff",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Fashion runway",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "dimity_couture_08_Floating_Dreams_Dress_Diana_Eng_s_.jpg",
+      "size_kb": 109.75,
+      "md5": "82887a40ca22e104a69fb3930ae8a394",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Floating Dreams Dress Diana Eng s",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "dimity_couture_09_Gary_Bigeni_6981260888_.jpg",
+      "size_kb": 78.21,
+      "md5": "16f7a29cfb1b7aceeb420e6b76454843",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Gary Bigeni 6981260888",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "dimity_couture_10_Inflatable_Dress_Diana_Eng_s_Fairy.jpg",
+      "size_kb": 106.04,
+      "md5": "73d0aea1660377b193232a2c6edb68d8",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Inflatable Dress Diana Eng s Fairy",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "dimity_couture_11_MICHAEL_KORS_221.jpg",
+      "size_kb": 128.46,
+      "md5": "c5a5f2907d6d2fa3856787648086174a",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: MICHAEL KORS 221",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "dimity_couture_12_Marc_Jacobs_Fall-Winter_2012_10.jpg",
+      "size_kb": 135.82,
+      "md5": "e4f674361ec05f8d3273b6ca9f2ced1e",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Marc Jacobs Fall Winter 2012 10",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "dimity_couture_13_Model_wearing_Oka_Diputra_clothes.jpg",
+      "size_kb": 48.03,
+      "md5": "f27a146d367bbb91bb313dd657237afa",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Model wearing Oka Diputra clothes",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "dimity_couture_14_Sosnowiecki_Fashion_Bridge_-_2025.jpg",
+      "size_kb": 184.27,
+      "md5": "2a2bb901dc5666ce8ebda18c4c87b9e1",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Sosnowiecki Fashion Bridge 2025",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "dimity_couture_15_Stephanie_ready_to_hit_the_runway_.jpg",
+      "size_kb": 95.22,
+      "md5": "86b8e241fc7fdf6cd9862b542dbfc442",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Stephanie ready to hit the runway",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "dimity_couture_16_Tori_Spelling_at_Hearth_Truth_2009.jpg",
+      "size_kb": 91.56,
+      "md5": "02edff474b96e6b4e1e942d8fcdce2aa",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Tori Spelling at Hearth Truth 2009",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "dimity_couture_17_Two_models_wearing_Oka_Diputra_clo.jpg",
+      "size_kb": 40.24,
+      "md5": "8d69d5537cee004cdfcf3a26e849561a",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Two models wearing Oka Diputra clo",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "dimity_couture_18_12-promotional-models-Fenasucro-.jpg",
+      "size_kb": 171.18,
+      "md5": "6fc7b350730f53727f11e5b419fca705",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: 12 promotional models Fenasucro",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "dimity_couture_19_Yuki_Chiu.jpg",
+      "size_kb": 168.42,
+      "md5": "cf1afd5682ea6df731fb5b674f463726",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: Yuki Chiu",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "dimity_couture_20_AFRICA_FASHION_WEEK_2023_-_IMG_1.jpg",
+      "size_kb": 117.63,
+      "md5": "a6952ed9d3d17c40d8a2633576dc60db",
+      "description": "Artisanal Haute Dimity Fashion & Bespoke Cotton Couture: AFRICA FASHION WEEK 2023 IMG 1",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://dimityelegant.com/sitemap.xml",
+    "robots": "https://dimityelegant.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
